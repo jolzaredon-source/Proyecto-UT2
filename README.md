@@ -1,0 +1,3 @@
+Este código es un programa para gestionar una tienda de informática que vende piezas, monta ordenadores y lleva el control de la caja registradora. A través de un menú en la pantalla, permite registrar compras, ver el dinero acumulado en el día o cerrar la aplicación.
+
+Al registrar una venta, el programa pide el nombre del cliente, le deja elegir componentes o un tipo de montaje, permite añadir extras (como la limpieza o el sistema operativo) y suma un extra si el envío es a domicilio. Al final, aplica un 10% de descuento si la cuenta supera los 150€ y guarda los datos para saber cuánto se ha ganado y quién ha sido el cliente que más ha gastado.
